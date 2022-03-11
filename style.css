@@ -1,0 +1,42 @@
+@import url("banner.css");
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+@import url('buttons.css');
+@import url('menu.css');
+@import url('footer.css');
+@import url('card.css');
+@import url('banner2.css');
+
+a {
+	text-decoration: none;
+}
+
+body {
+	margin: 0;
+	font-family: 'Dancing Script', cursive;
+}
+
+h1, h2, h3 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+}
+h4 {
+	font-family: 'Dancing Script', cursive;
+	font-size: 50px;
+}
+
+div{
+	text-align: center;
+}
+
+p {
+	font-family: 'Dancing Script', cursive;
+	font-size: 20px;
+	margin-left: 60px;
+	margin-right: 60px;
+}
+
+
+#lien1 {
+	color: white;
+}
+

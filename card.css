@@ -1,0 +1,30 @@
+.cards {
+	display: grid;
+	grid-template-columns: 1fr;
+	grid-gap: 17 px;
+	padding: 40px;
+
+}
+
+.cards img {
+	width: 400px;
+	height: 400px;
+	border-radius: 40px;
+	object-fit: cover;
+
+
+
+}
+
+@media (min-width:  576px){
+	.cards{
+		grid-template-columns: 1fr 1fr;
+	}
+}
+
+
+@media (min-width:  576px){
+	.cards{
+		grid-template-columns: 1fr 1fr 1fr;
+	}
+}

@@ -1,0 +1,16 @@
+.btn-pink {
+	color: white;
+	background-color: hotpink;
+	padding: 15px 30px;
+	border-radius: 15px;
+	font-weight: bolder;
+	border: 10px hotpink;
+	transition: 1s;
+	font-size: 30px;
+}
+
+.btn-pink:hover {
+	background-color: white;
+	color: hotpink;
+	transition: 1s;
+}
